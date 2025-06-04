@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Name": "Black Background",
+  "Author": "Bob",
+  "ShortDescription": "",
+  "LongDescription": "",
+  "Css": "theme.css",
+  "TitleFont": "",
+  "BodyFont": "",
+  "CssClasses": "variable-size-headings",
+  "Layouts": []
+}
